@@ -119,3 +119,34 @@ nav a:hover {
     font-size: 22px;
     line-height: 2;
 }
+/* ==========================
+   Research Interests
+========================== */
+
+.research-columns {
+    display: flex;
+    justify-content: space-between;
+    gap: 80px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+.research-column {
+    flex: 1;
+    min-width: 350px;
+}
+
+.research-column h3 {
+    color: #003f8a;
+    margin-bottom: 18px;
+    font-size: 28px;
+}
+
+.research-column ul {
+    padding-left: 25px;
+}
+
+.research-column li {
+    font-size: 22px;
+    line-height: 1.9;
+}
