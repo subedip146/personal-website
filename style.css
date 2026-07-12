@@ -123,8 +123,8 @@ nav a:hover {
    Research Interests
 ========================== */
 
-.research-section h2 {
-    font-size: 48px;
+#research-section h2 {
+    font-size: 42px;
     margin-bottom: 12px;
     color: #222;
 }
